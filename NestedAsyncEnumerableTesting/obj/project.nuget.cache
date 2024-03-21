@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sdJY6XuzHzKgwSX3VI5oC8ACmM8lKzJW9mp3LJKwXpFx9AgLGcflKfhTUyqTcXS2XhLCv0uGc8/8/uK5VOBaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tehbl\\source\\repos\\testing-projects\\NestedAsyncEnumerableTesting\\NestedAsyncEnumerableTesting\\NestedAsyncEnumerableTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tehbl\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.0\\system.threading.tasks.dataflow.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

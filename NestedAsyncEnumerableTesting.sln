@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedAsyncEnumerableTesting", "NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting.csproj", "{995B7581-F8F2-40AA-AA85-AE376ACD2DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995B7581-F8F2-40AA-AA85-AE376ACD2DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995B7581-F8F2-40AA-AA85-AE376ACD2DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995B7581-F8F2-40AA-AA85-AE376ACD2DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995B7581-F8F2-40AA-AA85-AE376ACD2DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106CE3EF-B58C-4BED-8712-82FC13D0B2D6}
+	EndGlobalSection
+EndGlobal

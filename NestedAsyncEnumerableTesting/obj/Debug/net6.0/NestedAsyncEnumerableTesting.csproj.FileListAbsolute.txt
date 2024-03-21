@@ -1,0 +1,17 @@
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\bin\Debug\net6.0\NestedAsyncEnumerableTesting.exe
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\bin\Debug\net6.0\NestedAsyncEnumerableTesting.deps.json
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\bin\Debug\net6.0\NestedAsyncEnumerableTesting.runtimeconfig.json
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\bin\Debug\net6.0\NestedAsyncEnumerableTesting.dll
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\bin\Debug\net6.0\NestedAsyncEnumerableTesting.pdb
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.AssemblyInfoInputs.cache
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.AssemblyInfo.cs
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.csproj.CoreCompileInputs.cache
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.dll
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\refint\NestedAsyncEnumerableTesting.dll
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.pdb
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.genruntimeconfig.cache
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\ref\NestedAsyncEnumerableTesting.dll
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.csproj.AssemblyReference.cache
+C:\Users\tehbl\source\repos\testing-projects\NestedAsyncEnumerableTesting\NestedAsyncEnumerableTesting\obj\Debug\net6.0\NestedAsyncEnumerableTesting.csproj.CopyComplete
